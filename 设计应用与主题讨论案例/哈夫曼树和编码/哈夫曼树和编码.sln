@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "哈夫曼树和编码", "哈夫曼树和编码\哈夫曼树和编码.vcxproj", "{67BEB17E-6C12-4BCF-BB04-869890C183C8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{67BEB17E-6C12-4BCF-BB04-869890C183C8}.Debug|Win32.ActiveCfg = Debug|Win32
+		{67BEB17E-6C12-4BCF-BB04-869890C183C8}.Debug|Win32.Build.0 = Debug|Win32
+		{67BEB17E-6C12-4BCF-BB04-869890C183C8}.Release|Win32.ActiveCfg = Release|Win32
+		{67BEB17E-6C12-4BCF-BB04-869890C183C8}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

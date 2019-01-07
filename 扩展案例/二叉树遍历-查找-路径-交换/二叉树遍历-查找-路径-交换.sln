@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "二叉树遍历-查找-路径-交换", "二叉树遍历-查找-路径-交换\二叉树遍历-查找-路径-交换.vcxproj", "{62201631-616D-46C5-90A0-BBDCDCFA11D2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{62201631-616D-46C5-90A0-BBDCDCFA11D2}.Debug|Win32.ActiveCfg = Debug|Win32
+		{62201631-616D-46C5-90A0-BBDCDCFA11D2}.Debug|Win32.Build.0 = Debug|Win32
+		{62201631-616D-46C5-90A0-BBDCDCFA11D2}.Release|Win32.ActiveCfg = Release|Win32
+		{62201631-616D-46C5-90A0-BBDCDCFA11D2}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

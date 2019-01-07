@@ -1,0 +1,26 @@
+﻿生成启动时间为 2015/11/1 18:53:42。
+     1>项目“D:\数据结构（王江涛）\chap5\实例\哈夫曼树和编码\哈夫曼树和编码\哈夫曼树和编码.vcxproj”在节点 2 上(build 个目标)。
+     1>InitializeBuildStatus:
+         正在创建“Debug\哈夫曼树和编码.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       ClCompile:
+         所有输出均为最新。
+       ManifestResourceCompile:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /nologo /fo"Debug\哈夫曼树和编码.exe.embed.manifest.res" "Debug\哈夫曼树和编码_manifest.rc" 
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\数据结构（王江涛）\chap5\实例\哈夫曼树和编码\Debug\哈夫曼树和编码.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\哈夫曼树和编码.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"D:\数据结构（王江涛）\chap5\实例\哈夫曼树和编码\Debug\哈夫曼树和编码.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\数据结构（王江涛）\chap5\实例\哈夫曼树和编码\Debug\哈夫曼树和编码.lib" /MACHINE:X86 "Debug\哈夫曼树和编码.exe.embed.manifest.res"
+         "Debug\哈夫曼树和哈夫曼编码.obj"
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"Debug\哈夫曼树和编码.exe.embed.manifest" /manifest "Debug\哈夫曼树和编码.exe.intermediate.manifest"
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /nologo /fo"Debug\哈夫曼树和编码.exe.embed.manifest.res" "Debug\哈夫曼树和编码_manifest.rc" 
+       LinkEmbedManifest:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\数据结构（王江涛）\chap5\实例\哈夫曼树和编码\Debug\哈夫曼树和编码.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\哈夫曼树和编码.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"D:\数据结构（王江涛）\chap5\实例\哈夫曼树和编码\Debug\哈夫曼树和编码.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\数据结构（王江涛）\chap5\实例\哈夫曼树和编码\Debug\哈夫曼树和编码.lib" /MACHINE:X86 "Debug\哈夫曼树和编码.exe.embed.manifest.res"
+         "Debug\哈夫曼树和哈夫曼编码.obj"
+         哈夫曼树和编码.vcxproj -> D:\数据结构（王江涛）\chap5\实例\哈夫曼树和编码\Debug\哈夫曼树和编码.exe
+       FinalizeBuildStatus:
+         正在删除文件“Debug\哈夫曼树和编码.unsuccessfulbuild”。
+         正在对“Debug\哈夫曼树和编码.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“D:\数据结构（王江涛）\chap5\实例\哈夫曼树和编码\哈夫曼树和编码\哈夫曼树和编码.vcxproj”(build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:00.96
